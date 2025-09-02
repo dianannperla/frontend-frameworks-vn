@@ -39,4 +39,5 @@ footer {
     color: #ffffff;
     bottom: 0;
     width: 100%;
+    border-top: 2px solid #ffffff;
 }
